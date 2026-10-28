@@ -1,0 +1,25 @@
+[project]
+name = "basicmath"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "catboost>=1.2.10",
+    "fastapi>=0.150.0",
+    "ipykernel>=7.4.0",
+    "lightgbm>=4.7.0",
+    "matplotlib>=3.11.2",
+    "mlflow>=3.17.1",
+    "numpy>=2.5.4",
+    "pandas>=3.0.6",
+    "plotly>=7.1.0",
+    "scikit-learn>=1.9.1",
+    "scipy>=1.18.1",
+    "seaborn>=0.13.2",
+    "statsmodels>=0.15.0",
+    "tensorboard>=2.21.0",
+    "torch>=2.14.1",
+    "uvicorn>=0.54.0",
+    "xgboost>=3.4.1",
+]
